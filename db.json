@@ -2,31 +2,10 @@
   "person":
 [
   {
-    "id":"1",
+    "id":1,
     "firstName":"Abdulhamid",
     "lastName":"Muhammad",
     "phone":"08063538362",
-    "address":"Yalwa Area"
- },
-  {
-    "id":"2",
-    "firstName":"Mustapha",
-    "lastName":"Musa",
-    "phone":"080635286598",
-    "address":"TMA"
- },
-  {
-    "id":"3",
-    "firstName":"Kabir",
-    "lastName":"Bashir",
-    "phone":"07025458745",
-    "address":"Kulliya Road"
- },
-  {
-    "id":"4",
-    "firstName":"Sadik",
-    "lastName":"Ahmad",
-    "phone":"0810963524152",
     "address":"Yalwa Area"
  }
 ]
