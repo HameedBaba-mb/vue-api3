@@ -3,28 +3,28 @@
 [
   {
     "id":"1",
-    "firstName":"Abdulhamid"
+    "firstName":"Abdulhamid",
     "lastName":"Muhammad",
     "phone":"08063538362",
     "address":"Yalwa Area"
  },
   {
     "id":"2",
-    "firstName":"Mustapha"
+    "firstName":"Mustapha",
     "lastName":"Musa",
     "phone":"080635286598",
     "address":"TMA"
  },
   {
     "id":"3",
-    "firstName":"Kabir"
+    "firstName":"Kabir",
     "lastName":"Bashir",
     "phone":"07025458745",
     "address":"Kulliya Road"
  },
   {
     "id":"4",
-    "firstName":"Sadik"
+    "firstName":"Sadik",
     "lastName":"Ahmad",
     "phone":"0810963524152",
     "address":"Yalwa Area"
