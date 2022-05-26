@@ -11,8 +11,29 @@
     "id":2,
     "firstName":"Ahmad",
     "lastName":"Sani",
-    "phone":"050695822",
+    "phone":"070695822",
     "address":"Yalwa TMA"
+ },
+     {
+    "id":3,
+    "firstName":"Musa",
+    "lastName":"Bala",
+    "phone":"07063259685",
+    "address":"Gusau TMA"
+ },
+     {
+    "id":24,
+    "firstName":"Bashir",
+    "lastName":"Mustapha",
+    "phone":"07032125251",
+    "address":"Yalwa TMA"
+ },
+     {
+    "id":5,
+    "firstName":"Muhammad",
+    "lastName":"Musaddiq",
+    "phone":"08063524174",
+    "address":"TMA"
  }
   ]
 }
